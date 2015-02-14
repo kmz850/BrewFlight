@@ -1,0 +1,146 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* BeerApp */ = {
+		activeExec = 0;
+		executables = (
+			252F37DD13A3F8A800F88631 /* BeerApp */,
+		);
+	};
+	252F37DD13A3F8A800F88631 /* BeerApp */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = BeerApp;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	252F37EC13A3F8B300F88631 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	252F37ED13A3F8B300F88631 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	252F381F13A4055700F88631 /* ASIWebPageRequest.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1244, 1118}}";
+			sepNavSelRange = "{564, 0}";
+			sepNavVisRange = "{0, 1073}";
+			sepNavWindowFrame = "{{15, 100}, {1033, 773}}";
+		};
+	};
+	252F387313A44BBE00F88631 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 252F381F13A4055700F88631 /* ASIWebPageRequest.h */;
+		name = "ASIWebPageRequest.h: 14";
+		rLen = 0;
+		rLoc = 564;
+		rType = 0;
+		vrLen = 1101;
+		vrLoc = 0;
+	};
+	252F387413A44BBE00F88631 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 252F381F13A4055700F88631 /* ASIWebPageRequest.h */;
+		name = "ASIWebPageRequest.h: 14";
+		rLen = 0;
+		rLoc = 564;
+		rType = 0;
+		vrLen = 1073;
+		vrLoc = 0;
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 252F37DD13A3F8A800F88631 /* BeerApp */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* BeerApp */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* BeerApp */,
+		);
+		codeSenseManager = 252F37ED13A3F8B300F88631 /* Code sense */;
+		executables = (
+			252F37DD13A3F8A800F88631 /* BeerApp */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = 1;
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_ObjectSize_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					865,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					953,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 329513128;
+			PBXWorkspaceStateSaveDate = 329513128;
+		};
+		perUserProjectItems = {
+			252F387313A44BBE00F88631 /* PBXTextBookmark */ = 252F387313A44BBE00F88631 /* PBXTextBookmark */;
+			252F387413A44BBE00F88631 /* PBXTextBookmark */ = 252F387413A44BBE00F88631 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 252F37EC13A3F8B300F88631 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}

@@ -1,0 +1,1246 @@
+TBeerApp
+v7
+r0
+t329519607.202596
+cCheck dependencies
+cProcessInfoPlistFile /Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/BeerApp.app/Info.plist BeerApp-Info.plist
+cCompileXIB /Users/keithzenoz/Desktop/BeerApp/MainWindow.xib
+cCompileXIB /Users/keithzenoz/Desktop/BeerApp/BeerAppViewController.xib
+cProcessPCH /var/folders/7o/7oBPsgr5Flm0ASR+clioS++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BeerApp_Prefix-eljencxzxeukouceokjobipxusza/BeerApp_Prefix.pch.gch BeerApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/main.o /Users/keithzenoz/Desktop/BeerApp/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/BeerAppAppDelegate.o /Users/keithzenoz/Desktop/BeerApp/Classes/BeerAppAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/BeerAppViewController.o /Users/keithzenoz/Desktop/BeerApp/Classes/BeerAppViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/NSObject+SBJSON.o /Users/keithzenoz/Desktop/BeerApp/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/NSString+SBJSON.o /Users/keithzenoz/Desktop/BeerApp/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/SBJsonBase.o /Users/keithzenoz/Desktop/BeerApp/SBJsonBase.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/SBJsonParser.o /Users/keithzenoz/Desktop/BeerApp/SBJsonParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/SBJsonWriter.o /Users/keithzenoz/Desktop/BeerApp/SBJsonWriter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/ASIAuthenticationDialog.o /Users/keithzenoz/Desktop/BeerApp/ASIAuthenticationDialog.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/ASIDataCompressor.o /Users/keithzenoz/Desktop/BeerApp/ASIDataCompressor.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/ASIDataDecompressor.o /Users/keithzenoz/Desktop/BeerApp/ASIDataDecompressor.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/ASIDownloadCache.o /Users/keithzenoz/Desktop/BeerApp/ASIDownloadCache.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/ASIFormDataRequest.o /Users/keithzenoz/Desktop/BeerApp/ASIFormDataRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/ASIHTTPRequest.o /Users/keithzenoz/Desktop/BeerApp/ASIHTTPRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/ASIInputStream.o /Users/keithzenoz/Desktop/BeerApp/ASIInputStream.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/ASINetworkQueue.o /Users/keithzenoz/Desktop/BeerApp/ASINetworkQueue.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/ASIWebPageRequest.o /Users/keithzenoz/Desktop/BeerApp/ASIWebPageRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/Reachability.o /Users/keithzenoz/Desktop/BeerApp/Reachability.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/MBProgressHUD.o /Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/BeerApp.app/BeerApp normal i386
+cGenerateDSYMFile /Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/BeerApp.app.dSYM /Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/BeerApp.app/BeerApp
+cTouch /Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/BeerApp.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004D54CF7C00000000001C41F0
+t1297403772
+s1851888
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CFNetwork.framework/Headers/CFNetwork.h
+c000000004D54CF5900000000000004CF
+t1297403737
+s1231
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CoreFoundation.h
+c000000004D54CEB40000000000000AB3
+t1297403572
+s2739
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/MobileCoreServices.framework/Headers/MobileCoreServices.h
+c000000004D54D0BA00000000000000EB
+t1297404090
+s235
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c000000004D54D0BC000000000005C090
+t1297404092
+s376976
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004D54D2DD00000000000000C4
+t1297404637
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/SystemConfiguration.framework/Headers/SystemConfiguration.h
+c000000004D54CEF80000000000001A58
+t1297403640
+s6744
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004D54CF0700000000000689C0
+t1297403655
+s428480
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/CommonCrypto/CommonHMAC.h
+c000000004A11E8210000000000000DE2
+t1242687521
+s3554
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/arpa/inet.h
+c000000004D54C5040000000000001533
+t1297401092
+s5427
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/ifaddrs.h
+c000000004D54C50400000000000008F5
+t1297401092
+s2293
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/netdb.h
+c000000004D54C504000000000000307F
+t1297401092
+s12415
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/netinet/in.h
+c000000004D54D0E60000000000006BAC
+t1297404134
+s27564
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/netinet6/in6.h
+c000000004D54D0E6000000000000638F
+t1297404134
+s25487
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/stdio.h
+c000000004D4F6E9A0000000000004763
+t1297051290
+s18275
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/sys/socket.h
+c000000004D54D0EB0000000000005ACF
+t1297404139
+s23247
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/zlib.h
+c000000004D54CB4600000000000102A5
+t1297402694
+s66213
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/lib/libxml2.2.7.3.dylib
+c000000004D54CF30000000000011E3F0
+t1297403696
+s1172464
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/lib/libz.1.2.3.dylib
+c000000004D54CB4700000000000123C0
+t1297402695
+s74688
+
+N/Users/keithzenoz/Desktop/BeerApp/ASIAuthenticationDialog.h
+c000000004DEBB8EC0000000000000453
+t1307293932
+s1107
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/keithzenoz/Desktop/BeerApp/ASIAuthenticationDialog.m
+c000000004DEBB8EC0000000000003DF0
+t1307293932
+s15856
+i"ASIAuthenticationDialog.h"
+i"ASIHTTPRequest.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/keithzenoz/Desktop/BeerApp/ASICacheDelegate.h
+c000000004DEBB8EC000000000000141F
+t1307293932
+s5151
+i<Foundation/Foundation.h>
+
+N/Users/keithzenoz/Desktop/BeerApp/ASIDataCompressor.h
+c000000004DEBB8EC000000000000072C
+t1307293932
+s1836
+i<Foundation/Foundation.h>
+i<zlib.h>
+
+N/Users/keithzenoz/Desktop/BeerApp/ASIDataCompressor.m
+c000000004DEBB8EC0000000000001A4A
+t1307293932
+s6730
+i"ASIDataCompressor.h"
+i"ASIHTTPRequest.h"
+
+N/Users/keithzenoz/Desktop/BeerApp/ASIDataDecompressor.h
+c000000004DEBB8EC00000000000006A3
+t1307293932
+s1699
+i<Foundation/Foundation.h>
+i<zlib.h>
+
+N/Users/keithzenoz/Desktop/BeerApp/ASIDataDecompressor.m
+c000000004DEBB8EC0000000000001906
+t1307293932
+s6406
+i"ASIDataDecompressor.h"
+i"ASIHTTPRequest.h"
+
+N/Users/keithzenoz/Desktop/BeerApp/ASIDownloadCache.h
+c000000004DEBB8EC00000000000006CD
+t1307293932
+s1741
+i<Foundation/Foundation.h>
+i"ASICacheDelegate.h"
+
+N/Users/keithzenoz/Desktop/BeerApp/ASIDownloadCache.m
+c000000004DEBB8EC0000000000004314
+t1307293932
+s17172
+i"ASIDownloadCache.h"
+i"ASIHTTPRequest.h"
+i<CommonCrypto/CommonHMAC.h>
+
+N/Users/keithzenoz/Desktop/BeerApp/ASIFormDataRequest.h
+c000000004DEBB8EC0000000000000A85
+t1307293932
+s2693
+i<Foundation/Foundation.h>
+i"ASIHTTPRequest.h"
+i"ASIHTTPRequestConfig.h"
+
+N/Users/keithzenoz/Desktop/BeerApp/ASIFormDataRequest.m
+c000000004DEBB8EC0000000000002BDD
+t1307293932
+s11229
+i"ASIFormDataRequest.h"
+
+N/Users/keithzenoz/Desktop/BeerApp/ASIHTTPRequest.h
+c000000004DEBB8EC000000000000AEB6
+t1307293932
+s44726
+i<Foundation/Foundation.h>
+i<CFNetwork/CFNetwork.h>
+i<UIKit/UIKit.h>
+i<stdio.h>
+i"ASIHTTPRequestConfig.h"
+i"ASIHTTPRequestDelegate.h"
+i"ASIProgressDelegate.h"
+i"ASICacheDelegate.h"
+
+N/Users/keithzenoz/Desktop/BeerApp/ASIHTTPRequest.m
+c000000004DEBB8EC000000000002C678
+t1307293932
+s181880
+i"ASIHTTPRequest.h"
+i"Reachability.h"
+i"ASIAuthenticationDialog.h"
+i<MobileCoreServices/MobileCoreServices.h>
+i<SystemConfiguration/SystemConfiguration.h>
+i"ASIInputStream.h"
+i"ASIDataDecompressor.h"
+i"ASIDataCompressor.h"
+
+N/Users/keithzenoz/Desktop/BeerApp/ASIHTTPRequestConfig.h
+c000000004DEBB8EC0000000000000478
+t1307293932
+s1144
+
+N/Users/keithzenoz/Desktop/BeerApp/ASIHTTPRequestDelegate.h
+c000000004DEBB8EC000000000000063E
+t1307293932
+s1598
+
+N/Users/keithzenoz/Desktop/BeerApp/ASIInputStream.h
+c000000004DEBB8EC00000000000003C9
+t1307293932
+s969
+i<Foundation/Foundation.h>
+
+N/Users/keithzenoz/Desktop/BeerApp/ASIInputStream.m
+c000000004DEBB8EC0000000000000C14
+t1307293932
+s3092
+i"ASIInputStream.h"
+i"ASIHTTPRequest.h"
+
+N/Users/keithzenoz/Desktop/BeerApp/ASINetworkQueue.h
+c000000004DEBB8EC000000000000120D
+t1307293932
+s4621
+i<Foundation/Foundation.h>
+i"ASIHTTPRequestDelegate.h"
+i"ASIProgressDelegate.h"
+
+N/Users/keithzenoz/Desktop/BeerApp/ASINetworkQueue.m
+c000000004DEBB8EC0000000000002C8D
+t1307293932
+s11405
+i"ASINetworkQueue.h"
+i"ASIHTTPRequest.h"
+
+N/Users/keithzenoz/Desktop/BeerApp/ASIProgressDelegate.h
+c000000004DEBB8EC0000000000000678
+t1307293932
+s1656
+
+N/Users/keithzenoz/Desktop/BeerApp/ASIWebPageRequest.h
+c000000004DF3D5FA0000000000000DF6
+t1307825658
+s3574
+i"ASIHTTPRequest.h"
+i<libxml/HTMLparser.h>
+i<libxml/xmlsave.h>
+i<libxml/xpath.h>
+i<libxml/xpathInternals.h>
+
+N/Users/keithzenoz/Desktop/BeerApp/ASIWebPageRequest.m
+c000000004DEBB8EC000000000000787A
+t1307293932
+s30842
+i"ASIWebPageRequest.h"
+i"ASINetworkQueue.h"
+i<CommonCrypto/CommonHMAC.h>
+
+N/Users/keithzenoz/Desktop/BeerApp/BeerAppViewController.xib
+c000000004DF3C1280000000000001A45
+t1307820328
+s6725
+
+N/Users/keithzenoz/Desktop/BeerApp/BeerApp_Prefix.pch
+c000000004DF3C12800000000000000B7
+t1307820328
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/keithzenoz/Desktop/BeerApp/Classes/BeerAppAppDelegate.h
+c000000004DF3C12800000000000001DE
+t1307820328
+s478
+i<UIKit/UIKit.h>
+
+N/Users/keithzenoz/Desktop/BeerApp/Classes/BeerAppAppDelegate.m
+c000000004DF3C1280000000000000AA9
+t1307820328
+s2729
+i"BeerAppAppDelegate.h"
+i"BeerAppViewController.h"
+
+N/Users/keithzenoz/Desktop/BeerApp/Classes/BeerAppViewController.h
+c000000004DF3C12800000000000000ED
+t1307820328
+s237
+i<UIKit/UIKit.h>
+
+N/Users/keithzenoz/Desktop/BeerApp/Classes/BeerAppViewController.m
+c000000004DF3C12800000000000005C0
+t1307820328
+s1472
+i"BeerAppViewController.h"
+
+N/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.h
+c000000004D4A33420000000000002E88
+t1296708418
+s11912
+i<UIKit/UIKit.h>
+
+N/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m
+c000000004D4A33420000000000004EF8
+t1296708418
+s20216
+i"MBProgressHUD.h"
+
+N/Users/keithzenoz/Desktop/BeerApp/MainWindow.xib
+c000000004DF3C1280000000000004E29
+t1307820328
+s20009
+
+N/Users/keithzenoz/Desktop/BeerApp/NSObject+SBJSON.h
+c000000004D2B12CC000000000000085F
+t1294668492
+s2143
+i<Foundation/Foundation.h>
+
+N/Users/keithzenoz/Desktop/BeerApp/NSObject+SBJSON.m
+c000000004D2B12CC000000000000077D
+t1294668492
+s1917
+i"NSObject+SBJSON.h"
+i"SBJsonWriter.h"
+
+N/Users/keithzenoz/Desktop/BeerApp/NSString+SBJSON.h
+c000000004D2B12CC00000000000007F0
+t1294668492
+s2032
+i<Foundation/Foundation.h>
+
+N/Users/keithzenoz/Desktop/BeerApp/NSString+SBJSON.m
+c000000004D2B12CC000000000000075D
+t1294668492
+s1885
+i"NSString+SBJSON.h"
+i"SBJsonParser.h"
+
+N/Users/keithzenoz/Desktop/BeerApp/Reachability.h
+c000000004DEBB8EC0000000000001D0E
+t1307293932
+s7438
+i<Foundation/Foundation.h>
+i<SystemConfiguration/SystemConfiguration.h>
+
+N/Users/keithzenoz/Desktop/BeerApp/Reachability.m
+c000000004DEBB8EC0000000000005E0C
+t1307293932
+s24076
+i<sys/socket.h>
+i<netinet/in.h>
+i<netinet6/in6.h>
+i<arpa/inet.h>
+i<ifaddrs.h>
+i<netdb.h>
+i<CoreFoundation/CoreFoundation.h>
+i"Reachability.h"
+
+N/Users/keithzenoz/Desktop/BeerApp/SBJsonBase.h
+c000000004D2B12CC0000000000000B82
+t1294668492
+s2946
+i<Foundation/Foundation.h>
+
+N/Users/keithzenoz/Desktop/BeerApp/SBJsonBase.m
+c000000004D2B12CC0000000000000AC1
+t1294668492
+s2753
+i"SBJsonBase.h"
+
+N/Users/keithzenoz/Desktop/BeerApp/SBJsonParser.h
+c000000004D2B12CC0000000000000C8F
+t1294668492
+s3215
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/keithzenoz/Desktop/BeerApp/SBJsonParser.m
+c000000004D2B12CC0000000000003B7A
+t1294668492
+s15226
+i"SBJsonParser.h"
+
+N/Users/keithzenoz/Desktop/BeerApp/SBJsonWriter.h
+c000000004D2B12CC00000000000011D9
+t1294668492
+s4569
+i<Foundation/Foundation.h>
+i"SBJsonBase.h"
+
+N/Users/keithzenoz/Desktop/BeerApp/SBJsonWriter.m
+c000000004D2B12CC000000000000206D
+t1294668492
+s8301
+i"SBJsonWriter.h"
+
+N/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/ASIAuthenticationDialog.o
+t1307826110
+s108572
+
+N/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/ASIDataCompressor.o
+t1307826110
+s23300
+
+N/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/ASIDataDecompressor.o
+t1307826110
+s23260
+
+N/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/ASIDownloadCache.o
+t1307826110
+s60032
+
+N/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/ASIFormDataRequest.o
+t1307826110
+s47912
+
+N/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/ASIHTTPRequest.o
+t1307826112
+s512920
+
+N/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/ASIInputStream.o
+t1307826110
+s29056
+
+N/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/ASINetworkQueue.o
+t1307826111
+s61452
+
+N/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/ASIWebPageRequest.o
+t1307826111
+s86032
+
+N/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/BeerApp.LinkFileList
+c000000004DF3CEED0000000000000980
+t1307823853
+s2432
+
+N/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/BeerAppAppDelegate.o
+t1307826110
+s51304
+
+N/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/BeerAppViewController.o
+t1307826110
+s37936
+
+N/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/MBProgressHUD.o
+t1307826806
+s116332
+
+N/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/NSObject+SBJSON.o
+t1307826110
+s7372
+
+N/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/NSString+SBJSON.o
+t1307826110
+s7264
+
+N/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/Reachability.o
+t1307826111
+s33708
+
+N/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/SBJsonBase.o
+t1307826110
+s13192
+
+N/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/SBJsonParser.o
+t1307826110
+s36860
+
+N/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/SBJsonWriter.o
+t1307826110
+s26644
+
+N/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/main.o
+t1307826110
+s6300
+
+N/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/StaticAnalyzer/normal/i386/ASIAuthenticationDialog.plist
+t1307823867
+s276
+
+N/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/StaticAnalyzer/normal/i386/ASIDataCompressor.plist
+t1307823867
+s276
+
+N/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/StaticAnalyzer/normal/i386/ASIDataDecompressor.plist
+t1307823867
+s276
+
+N/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/StaticAnalyzer/normal/i386/ASIDownloadCache.plist
+t1307823867
+s276
+
+N/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/StaticAnalyzer/normal/i386/ASIFormDataRequest.plist
+t1307823867
+s276
+
+N/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/StaticAnalyzer/normal/i386/ASIHTTPRequest.plist
+t1307823873
+s276
+
+N/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/StaticAnalyzer/normal/i386/ASIInputStream.plist
+t1307823873
+s276
+
+N/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/StaticAnalyzer/normal/i386/ASINetworkQueue.plist
+t1307823873
+s276
+
+N/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/StaticAnalyzer/normal/i386/ASIWebPageRequest.plist
+t2
+s0
+
+N/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/StaticAnalyzer/normal/i386/BeerAppAppDelegate.plist
+t1307823866
+s276
+
+N/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/StaticAnalyzer/normal/i386/BeerAppViewController.plist
+t1307823866
+s276
+
+N/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/StaticAnalyzer/normal/i386/MBProgressHUD.plist
+t2
+s0
+
+N/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/StaticAnalyzer/normal/i386/NSObject+SBJSON.plist
+t1307823866
+s276
+
+N/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/StaticAnalyzer/normal/i386/NSString+SBJSON.plist
+t1307823866
+s276
+
+N/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/StaticAnalyzer/normal/i386/Reachability.plist
+t1307823873
+s276
+
+N/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/StaticAnalyzer/normal/i386/SBJsonBase.plist
+t1307823866
+s276
+
+N/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/StaticAnalyzer/normal/i386/SBJsonParser.plist
+t1307823879
+s276
+
+N/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/StaticAnalyzer/normal/i386/SBJsonWriter.plist
+t1307823867
+s276
+
+N/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/StaticAnalyzer/normal/i386/main.plist
+t1307823866
+s276
+
+N/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/BeerApp.app
+t1307826807
+s238
+
+N/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/BeerApp.app.dSYM
+t1307826807
+s102
+
+N/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/BeerApp.app/BeerApp
+t1307826806
+s490036
+
+N/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/BeerApp.app/BeerAppViewController.nib
+t1307823858
+s1269
+
+N/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/BeerApp.app/Info.plist
+t1307823853
+s591
+
+N/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/BeerApp.app/MainWindow.nib
+t1307823858
+s1681
+
+N/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/BeerApp.app/PkgInfo
+t1307823853
+s8
+
+N/Users/keithzenoz/Desktop/BeerApp/main.m
+c000000004DF3C1280000000000000168
+t1307820328
+s360
+i<UIKit/UIKit.h>
+
+N/usr/include/libxml2/libxml/HTMLparser.h
+c000000004CC3E9410000000000002401
+t1287907649
+s9217
+
+N/usr/include/libxml2/libxml/xmlsave.h
+c000000004CC3E94200000000000008D4
+t1287907650
+s2260
+
+N/usr/include/libxml2/libxml/xpath.h
+c000000004CC3E9410000000000003F47
+t1287907649
+s16199
+
+N/usr/include/libxml2/libxml/xpathInternals.h
+c000000004CC3E9410000000000004BF8
+t1287907649
+s19448
+
+N/var/folders/7o/7oBPsgr5Flm0ASR+clioS++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BeerApp_Prefix-cqfjavikkasnuifgzdshxbgtftls/BeerApp_Prefix.pch.pth
+t1307823862
+s3352936
+
+N/var/folders/7o/7oBPsgr5Flm0ASR+clioS++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BeerApp_Prefix-eljencxzxeukouceokjobipxusza/BeerApp_Prefix.pch.gch
+t1307826109
+s15814064
+
+N/var/folders/7o/7oBPsgr5Flm0ASR+clioS++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BeerApp_Prefix-gfxlvuvbkeymcdgbhxjaqhfddngp/BeerApp_Prefix.pch.gch
+t1307823864
+s15814064
+
+NBeerApp-Info.plist
+c000000004DF3C128000000000000038D
+t1307820328
+s909
+
+CAnalyze /Users/keithzenoz/Desktop/BeerApp/ASIAuthenticationDialog.m
+s329516667.080112
+e329516667.421034
+r1
+xAnalyze
+x/Users/keithzenoz/Desktop/BeerApp/ASIAuthenticationDialog.m
+lSLF07#2@67"Analyze /Users/keithzenoz/Desktop/BeerApp/ASIAuthenticationDialog.m329516667#329516667#0(0"0(0#0#59"/Users/keithzenoz/Desktop/BeerApp/ASIAuthenticationDialog.m8609507008#1906"    cd /Users/keithzenoz/Desktop/BeerApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-generated-files.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-own-target-headers.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-all-target-headers.hmap -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-project-headers.hmap -F/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator -I/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/include -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources/i386 -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources -include /var/folders/7o/7oBPsgr5Flm0ASR+clioS++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BeerApp_Prefix-cqfjavikkasnuifgzdshxbgtftls/BeerApp_Prefix.pch --analyze /Users/keithzenoz/Desktop/BeerApp/ASIAuthenticationDialog.m -o /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/StaticAnalyzer/normal/i386/ASIAuthenticationDialog.plist0#
+
+CAnalyze /Users/keithzenoz/Desktop/BeerApp/ASIDataCompressor.m
+s329516667.421135
+e329516667.525043
+r1
+xAnalyze
+x/Users/keithzenoz/Desktop/BeerApp/ASIDataCompressor.m
+lSLF07#2@61"Analyze /Users/keithzenoz/Desktop/BeerApp/ASIDataCompressor.m329516667#329516667#0(0"0(0#0#53"/Users/keithzenoz/Desktop/BeerApp/ASIDataCompressor.m8601281760#1894"    cd /Users/keithzenoz/Desktop/BeerApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-generated-files.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-own-target-headers.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-all-target-headers.hmap -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-project-headers.hmap -F/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator -I/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/include -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources/i386 -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources -include /var/folders/7o/7oBPsgr5Flm0ASR+clioS++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BeerApp_Prefix-cqfjavikkasnuifgzdshxbgtftls/BeerApp_Prefix.pch --analyze /Users/keithzenoz/Desktop/BeerApp/ASIDataCompressor.m -o /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/StaticAnalyzer/normal/i386/ASIDataCompressor.plist0#
+
+CAnalyze /Users/keithzenoz/Desktop/BeerApp/ASIDataDecompressor.m
+s329516667.525148
+e329516667.609796
+r1
+xAnalyze
+x/Users/keithzenoz/Desktop/BeerApp/ASIDataDecompressor.m
+lSLF07#2@63"Analyze /Users/keithzenoz/Desktop/BeerApp/ASIDataDecompressor.m329516667#329516667#0(0"0(0#0#55"/Users/keithzenoz/Desktop/BeerApp/ASIDataDecompressor.m8613198624#1898"    cd /Users/keithzenoz/Desktop/BeerApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-generated-files.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-own-target-headers.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-all-target-headers.hmap -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-project-headers.hmap -F/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator -I/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/include -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources/i386 -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources -include /var/folders/7o/7oBPsgr5Flm0ASR+clioS++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BeerApp_Prefix-cqfjavikkasnuifgzdshxbgtftls/BeerApp_Prefix.pch --analyze /Users/keithzenoz/Desktop/BeerApp/ASIDataDecompressor.m -o /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/StaticAnalyzer/normal/i386/ASIDataDecompressor.plist0#
+
+CAnalyze /Users/keithzenoz/Desktop/BeerApp/ASIDownloadCache.m
+s329516667.610014
+e329516667.719502
+r1
+xAnalyze
+x/Users/keithzenoz/Desktop/BeerApp/ASIDownloadCache.m
+lSLF07#2@60"Analyze /Users/keithzenoz/Desktop/BeerApp/ASIDownloadCache.m329516667#329516667#0(0"0(0#0#52"/Users/keithzenoz/Desktop/BeerApp/ASIDownloadCache.m8613465920#1892"    cd /Users/keithzenoz/Desktop/BeerApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-generated-files.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-own-target-headers.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-all-target-headers.hmap -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-project-headers.hmap -F/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator -I/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/include -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources/i386 -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources -include /var/folders/7o/7oBPsgr5Flm0ASR+clioS++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BeerApp_Prefix-cqfjavikkasnuifgzdshxbgtftls/BeerApp_Prefix.pch --analyze /Users/keithzenoz/Desktop/BeerApp/ASIDownloadCache.m -o /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/StaticAnalyzer/normal/i386/ASIDownloadCache.plist0#
+
+CAnalyze /Users/keithzenoz/Desktop/BeerApp/ASIFormDataRequest.m
+s329516667.719631
+e329516667.866902
+r1
+xAnalyze
+x/Users/keithzenoz/Desktop/BeerApp/ASIFormDataRequest.m
+lSLF07#2@62"Analyze /Users/keithzenoz/Desktop/BeerApp/ASIFormDataRequest.m329516667#329516667#0(0"0(0#0#54"/Users/keithzenoz/Desktop/BeerApp/ASIFormDataRequest.m8612780320#1896"    cd /Users/keithzenoz/Desktop/BeerApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-generated-files.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-own-target-headers.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-all-target-headers.hmap -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-project-headers.hmap -F/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator -I/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/include -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources/i386 -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources -include /var/folders/7o/7oBPsgr5Flm0ASR+clioS++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BeerApp_Prefix-cqfjavikkasnuifgzdshxbgtftls/BeerApp_Prefix.pch --analyze /Users/keithzenoz/Desktop/BeerApp/ASIFormDataRequest.m -o /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/StaticAnalyzer/normal/i386/ASIFormDataRequest.plist0#
+
+CAnalyze /Users/keithzenoz/Desktop/BeerApp/ASIHTTPRequest.m
+s329516667.867016
+e329516673.558899
+r1
+xAnalyze
+x/Users/keithzenoz/Desktop/BeerApp/ASIHTTPRequest.m
+lSLF07#2@58"Analyze /Users/keithzenoz/Desktop/BeerApp/ASIHTTPRequest.m329516667#329516673#0(0"0(0#0#50"/Users/keithzenoz/Desktop/BeerApp/ASIHTTPRequest.m8609436416#1888"    cd /Users/keithzenoz/Desktop/BeerApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-generated-files.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-own-target-headers.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-all-target-headers.hmap -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-project-headers.hmap -F/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator -I/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/include -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources/i386 -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources -include /var/folders/7o/7oBPsgr5Flm0ASR+clioS++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BeerApp_Prefix-cqfjavikkasnuifgzdshxbgtftls/BeerApp_Prefix.pch --analyze /Users/keithzenoz/Desktop/BeerApp/ASIHTTPRequest.m -o /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/StaticAnalyzer/normal/i386/ASIHTTPRequest.plist0#
+
+CAnalyze /Users/keithzenoz/Desktop/BeerApp/ASIInputStream.m
+s329516673.559124
+e329516673.622939
+r1
+xAnalyze
+x/Users/keithzenoz/Desktop/BeerApp/ASIInputStream.m
+lSLF07#2@58"Analyze /Users/keithzenoz/Desktop/BeerApp/ASIInputStream.m329516673#329516673#0(0"0(0#0#50"/Users/keithzenoz/Desktop/BeerApp/ASIInputStream.m8611479008#1888"    cd /Users/keithzenoz/Desktop/BeerApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-generated-files.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-own-target-headers.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-all-target-headers.hmap -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-project-headers.hmap -F/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator -I/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/include -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources/i386 -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources -include /var/folders/7o/7oBPsgr5Flm0ASR+clioS++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BeerApp_Prefix-cqfjavikkasnuifgzdshxbgtftls/BeerApp_Prefix.pch --analyze /Users/keithzenoz/Desktop/BeerApp/ASIInputStream.m -o /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/StaticAnalyzer/normal/i386/ASIInputStream.plist0#
+
+CAnalyze /Users/keithzenoz/Desktop/BeerApp/ASINetworkQueue.m
+s329516673.623047
+e329516673.708746
+r1
+xAnalyze
+x/Users/keithzenoz/Desktop/BeerApp/ASINetworkQueue.m
+lSLF07#2@59"Analyze /Users/keithzenoz/Desktop/BeerApp/ASINetworkQueue.m329516673#329516673#0(0"0(0#0#51"/Users/keithzenoz/Desktop/BeerApp/ASINetworkQueue.m8609819232#1890"    cd /Users/keithzenoz/Desktop/BeerApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-generated-files.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-own-target-headers.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-all-target-headers.hmap -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-project-headers.hmap -F/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator -I/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/include -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources/i386 -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources -include /var/folders/7o/7oBPsgr5Flm0ASR+clioS++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BeerApp_Prefix-cqfjavikkasnuifgzdshxbgtftls/BeerApp_Prefix.pch --analyze /Users/keithzenoz/Desktop/BeerApp/ASINetworkQueue.m -o /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/StaticAnalyzer/normal/i386/ASINetworkQueue.plist0#
+
+CAnalyze /Users/keithzenoz/Desktop/BeerApp/ASIWebPageRequest.m
+s329518464.479581
+e329518465.577274
+r1
+xAnalyze
+x/Users/keithzenoz/Desktop/BeerApp/ASIWebPageRequest.m
+oIn file included from /Users/keithzenoz/Desktop/BeerApp/ASIWebPageRequest.m:10:
+o/Users/keithzenoz/Desktop/BeerApp/ASIWebPageRequest.h:14:9: fatal error: 'libxml/HTMLparser.h' file not found
+o #import <libxml/HTMLparser.h>
+o         ^
+o1 error generated.
+lSLF07#2@61"Analyze /Users/keithzenoz/Desktop/BeerApp/ASIWebPageRequest.m329518464#329518465#0(251"In file included from /Users/keithzenoz/Desktop/BeerApp/ASIWebPageRequest.m:10:/Users/keithzenoz/Desktop/BeerApp/ASIWebPageRequest.h:14:9: fatal error: 'libxml/HTMLparser.h' file not found #import <libxml/HTMLparser.h>         ^1 error generated.1(25@46"Analyzer skipped this file due to parse errors329518465#18446744073709551615#0#1(25@36"'libxml/HTMLparser.h' file not found329518465#18446744073709551615#0#0(6@53"/Users/keithzenoz/Desktop/BeerApp/ASIWebPageRequest.h329518458#14#0#14#0#0"0(6@53"/Users/keithzenoz/Desktop/BeerApp/ASIWebPageRequest.h329518458#0#0#0#0#0"0(0#0#53"/Users/keithzenoz/Desktop/BeerApp/ASIWebPageRequest.m8618364416#1894"    cd /Users/keithzenoz/Desktop/BeerApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-generated-files.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-own-target-headers.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-all-target-headers.hmap -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-project-headers.hmap -F/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator -I/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/include -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources/i386 -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources -include /var/folders/7o/7oBPsgr5Flm0ASR+clioS++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BeerApp_Prefix-cqfjavikkasnuifgzdshxbgtftls/BeerApp_Prefix.pch --analyze /Users/keithzenoz/Desktop/BeerApp/ASIWebPageRequest.m -o /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/StaticAnalyzer/normal/i386/ASIWebPageRequest.plist0#
+
+CAnalyze /Users/keithzenoz/Desktop/BeerApp/Classes/BeerAppAppDelegate.m
+s329516666.576122
+e329516666.645343
+r1
+xAnalyze
+x/Users/keithzenoz/Desktop/BeerApp/Classes/BeerAppAppDelegate.m
+lSLF07#2@70"Analyze /Users/keithzenoz/Desktop/BeerApp/Classes/BeerAppAppDelegate.m329516666#329516666#0(0"0(0#0#62"/Users/keithzenoz/Desktop/BeerApp/Classes/BeerAppAppDelegate.m8613415168#1904"    cd /Users/keithzenoz/Desktop/BeerApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-generated-files.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-own-target-headers.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-all-target-headers.hmap -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-project-headers.hmap -F/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator -I/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/include -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources/i386 -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources -include /var/folders/7o/7oBPsgr5Flm0ASR+clioS++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BeerApp_Prefix-cqfjavikkasnuifgzdshxbgtftls/BeerApp_Prefix.pch --analyze /Users/keithzenoz/Desktop/BeerApp/Classes/BeerAppAppDelegate.m -o /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/StaticAnalyzer/normal/i386/BeerAppAppDelegate.plist0#
+
+CAnalyze /Users/keithzenoz/Desktop/BeerApp/Classes/BeerAppViewController.m
+s329516666.645471
+e329516666.710510
+r1
+xAnalyze
+x/Users/keithzenoz/Desktop/BeerApp/Classes/BeerAppViewController.m
+lSLF07#2@73"Analyze /Users/keithzenoz/Desktop/BeerApp/Classes/BeerAppViewController.m329516666#329516666#0(0"0(0#0#65"/Users/keithzenoz/Desktop/BeerApp/Classes/BeerAppViewController.m8611556352#1910"    cd /Users/keithzenoz/Desktop/BeerApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-generated-files.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-own-target-headers.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-all-target-headers.hmap -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-project-headers.hmap -F/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator -I/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/include -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources/i386 -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources -include /var/folders/7o/7oBPsgr5Flm0ASR+clioS++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BeerApp_Prefix-cqfjavikkasnuifgzdshxbgtftls/BeerApp_Prefix.pch --analyze /Users/keithzenoz/Desktop/BeerApp/Classes/BeerAppViewController.m -o /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/StaticAnalyzer/normal/i386/BeerAppViewController.plist0#
+
+CAnalyze /Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m
+s329518464.636301
+e329518465.575872
+r1
+xAnalyze
+x/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m
+o/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m:6:2: error: expected identifier
+o <!DOCTYPE html>
+o  ^
+o/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m:7:2: error: cannot find protocol declaration for 'html'
+o <html>
+o  ^
+o/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m:8:4: error: cannot find protocol declaration for 'head'
+o   <head>
+o    ^
+o/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m:9:11: error: expected '>'
+o     <meta charset='utf-8'>
+o           ^
+o/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m:10:5: error: expected expression
+o     <meta http-equiv="X-UA-Compatible" content="chrome=1">
+o     ^
+o/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m:10:6: error: use of undeclared identifier 'meta'
+o     <meta http-equiv="X-UA-Compatible" content="chrome=1">
+o      ^
+o/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m:11:27: error: unknown type name 'NREUMQ'
+o     <script>var NREUMQ=[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
+o                           ^
+o/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m:11:33: error: expected identifier or '('
+o     <script>var NREUMQ=[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
+o                                 ^
+o/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m:11:83: error: expected identifier
+o     <script>var NREUMQ=[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
+o                                                                                   ^
+o/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m:12:10: error: cannot find protocol declaration for 'title'
+o         <title>MBProgressHUD.m at master from matej/MBProgressHUD - GitHub</title>
+o          ^
+o/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m:12:16: error: unknown type name 'MBProgressHUD'
+o         <title>MBProgressHUD.m at master from matej/MBProgressHUD - GitHub</title>
+o                ^
+o/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m:12:29: error: expected identifier or '('
+o         <title>MBProgressHUD.m at master from matej/MBProgressHUD - GitHub</title>
+o                             ^
+o/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m:49:7: error: unknown type name 'GitHub'
+o       GitHub.currentRef = 'master';
+o       ^
+o/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m:49:13: error: expected identifier or '('
+o       GitHub.currentRef = 'master';
+o             ^
+o/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m:50:7: error: unknown type name 'GitHub'
+o       GitHub.commitSHA = "f1b998db91059c4474ac9b73f6b6a0100da6513f";
+o       ^
+o/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m:50:13: error: expected identifier or '('
+o       GitHub.commitSHA = "f1b998db91059c4474ac9b73f6b6a0100da6513f";
+o             ^
+o/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m:51:7: error: unknown type name 'GitHub'
+o       GitHub.currentPath = 'MBProgressHUD.m';
+o       ^
+o/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m:51:13: error: expected identifier or '('
+o       GitHub.currentPath = 'MBProgressHUD.m';
+o             ^
+o/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m:52:7: error: unknown type name 'GitHub'
+o       GitHub.masterBranch = "master";
+o       ^
+ofatal error: too many errors emitted, stopping now [-ferror-limit=]
+o20 errors generated.
+lSLF07#2@57"Analyze /Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m329518464#329518465#0(3229"/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m:6:2: error: expected identifier <!DOCTYPE html>  ^/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m:7:2: error: cannot find protocol declaration for 'html' <html>  ^/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m:8:4: error: cannot find protocol declaration for 'head'   <head>    ^/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m:9:11: error: expected '>'     <meta charset='utf-8'>           ^/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m:10:5: error: expected expression     <meta http-equiv="X-UA-Compatible" content="chrome=1">     ^/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m:10:6: error: use of undeclared identifier 'meta'     <meta http-equiv="X-UA-Compatible" content="chrome=1">      ^/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m:11:27: error: unknown type name 'NREUMQ'     <script>var NREUMQ=[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>                           ^/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m:11:33: error: expected identifier or '('     <script>var NREUMQ=[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>                                 ^/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m:11:83: error: expected identifier     <script>var NREUMQ=[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>                                                                                   ^/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m:12:10: error: cannot find protocol declaration for 'title'         <title>MBProgressHUD.m at master from matej/MBProgressHUD - GitHub</title>          ^/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m:12:16: error: unknown type name 'MBProgressHUD'         <title>MBProgressHUD.m at master from matej/MBProgressHUD - GitHub</title>                ^/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m:12:29: error: expected identifier or '('         <title>MBProgressHUD.m at master from matej/MBProgressHUD - GitHub</title>                             ^/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m:49:7: error: unknown type name 'GitHub'       GitHub.currentRef = 'master';       ^/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m:49:13: error: expected identifier or '('       GitHub.currentRef = 'master';             ^/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m:50:7: error: unknown type name 'GitHub'       GitHub.commitSHA = "f1b998db91059c4474ac9b73f6b6a0100da6513f";       ^/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m:50:13: error: expected identifier or '('       GitHub.commitSHA = "f1b998db91059c4474ac9b73f6b6a0100da6513f";             ^/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m:51:7: error: unknown type name 'GitHub'       GitHub.currentPath = 'MBProgressHUD.m';       ^/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m:51:13: error: expected identifier or '('       GitHub.currentPath = 'MBProgressHUD.m';             ^/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m:52:7: error: unknown type name 'GitHub'       GitHub.masterBranch = "master";       ^fatal error: too many errors emitted, stopping now [-ferror-limit=]20 errors generated.1(25@46"Analyzer skipped this file due to parse errors329518465#18446744073709551615#0#19(25@19"expected identifier329518465#18446744073709551615#0#0(6@49"/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m329506805#6#0#6#0#0"0(25@43"cannot find protocol declaration for 'html'329518465#18446744073709551615#0#0(6@49"/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m329506805#7#0#7#0#0"0(25@43"cannot find protocol declaration for 'head'329518465#18446744073709551615#0#0(6@49"/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m329506805#8#0#8#0#0"0(25@12"expected '>'329518465#18446744073709551615#0#0(6@49"/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m329506805#9#0#9#0#0"0(25@19"expected expression329518465#18446744073709551615#0#0(6@49"/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m329506805#10#0#10#0#0"0(25@35"use of undeclared identifier 'meta'329518465#18446744073709551615#0#0(6@49"/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m329506805#10#0#10#0#0"0(25@26"unknown type name 'NREUMQ'329518465#18446744073709551615#0#0(6@49"/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m329506805#11#0#11#0#0"0(25@26"expected identifier or '('329518465#18446744073709551615#0#0(6@49"/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m329506805#11#0#11#0#0"0(25@19"expected identifier329518465#18446744073709551615#0#0(6@49"/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m329506805#11#0#11#0#0"0(25@44"cannot find protocol declaration for 'title'329518465#18446744073709551615#0#0(6@49"/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m329506805#12#0#12#0#0"0(25@33"unknown type name 'MBProgressHUD'329518465#18446744073709551615#0#0(6@49"/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m329506805#12#0#12#0#0"0(25@26"expected identifier or '('329518465#18446744073709551615#0#0(6@49"/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m329506805#12#0#12#0#0"0(25@26"unknown type name 'GitHub'329518465#18446744073709551615#0#0(6@49"/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m329506805#49#0#49#0#0"0(25@26"expected identifier or '('329518465#18446744073709551615#0#0(6@49"/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m329506805#49#0#49#0#0"0(25@26"unknown type name 'GitHub'329518465#18446744073709551615#0#0(6@49"/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m329506805#50#0#50#0#0"0(25@26"expected identifier or '('329518465#18446744073709551615#0#0(6@49"/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m329506805#50#0#50#0#0"0(25@26"unknown type name 'GitHub'329518465#18446744073709551615#0#0(6@49"/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m329506805#51#0#51#0#0"0(25@26"expected identifier or '('329518465#18446744073709551615#0#0(6@49"/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m329506805#51#0#51#0#0"0(25@26"unknown type name 'GitHub'329518465#18446744073709551615#0#0(6@49"/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m329506805#52#0#52#0#0"0(6@49"/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m329506805#0#0#0#0#0"0(0#0#49"/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m8618208992#1886"    cd /Users/keithzenoz/Desktop/BeerApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-generated-files.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-own-target-headers.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-all-target-headers.hmap -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-project-headers.hmap -F/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator -I/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/include -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources/i386 -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources -include /var/folders/7o/7oBPsgr5Flm0ASR+clioS++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BeerApp_Prefix-cqfjavikkasnuifgzdshxbgtftls/BeerApp_Prefix.pch --analyze /Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m -o /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/StaticAnalyzer/normal/i386/MBProgressHUD.plist0#
+
+CAnalyze /Users/keithzenoz/Desktop/BeerApp/NSObject+SBJSON.m
+s329516666.710603
+e329516666.769130
+r1
+xAnalyze
+x/Users/keithzenoz/Desktop/BeerApp/NSObject+SBJSON.m
+lSLF07#2@59"Analyze /Users/keithzenoz/Desktop/BeerApp/NSObject+SBJSON.m329516666#329516666#0(0"0(0#0#51"/Users/keithzenoz/Desktop/BeerApp/NSObject+SBJSON.m8609540896#1890"    cd /Users/keithzenoz/Desktop/BeerApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-generated-files.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-own-target-headers.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-all-target-headers.hmap -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-project-headers.hmap -F/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator -I/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/include -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources/i386 -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources -include /var/folders/7o/7oBPsgr5Flm0ASR+clioS++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BeerApp_Prefix-cqfjavikkasnuifgzdshxbgtftls/BeerApp_Prefix.pch --analyze /Users/keithzenoz/Desktop/BeerApp/NSObject+SBJSON.m -o /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/StaticAnalyzer/normal/i386/NSObject+SBJSON.plist0#
+
+CAnalyze /Users/keithzenoz/Desktop/BeerApp/NSString+SBJSON.m
+s329516666.769241
+e329516666.841795
+r1
+xAnalyze
+x/Users/keithzenoz/Desktop/BeerApp/NSString+SBJSON.m
+lSLF07#2@59"Analyze /Users/keithzenoz/Desktop/BeerApp/NSString+SBJSON.m329516666#329516666#0(0"0(0#0#51"/Users/keithzenoz/Desktop/BeerApp/NSString+SBJSON.m8609171776#1890"    cd /Users/keithzenoz/Desktop/BeerApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-generated-files.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-own-target-headers.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-all-target-headers.hmap -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-project-headers.hmap -F/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator -I/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/include -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources/i386 -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources -include /var/folders/7o/7oBPsgr5Flm0ASR+clioS++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BeerApp_Prefix-cqfjavikkasnuifgzdshxbgtftls/BeerApp_Prefix.pch --analyze /Users/keithzenoz/Desktop/BeerApp/NSString+SBJSON.m -o /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/StaticAnalyzer/normal/i386/NSString+SBJSON.plist0#
+
+CAnalyze /Users/keithzenoz/Desktop/BeerApp/Reachability.m
+s329516673.778605
+e329516673.896217
+r1
+xAnalyze
+x/Users/keithzenoz/Desktop/BeerApp/Reachability.m
+lSLF07#2@56"Analyze /Users/keithzenoz/Desktop/BeerApp/Reachability.m329516673#329516673#0(0"0(0#0#48"/Users/keithzenoz/Desktop/BeerApp/Reachability.m8598796608#1884"    cd /Users/keithzenoz/Desktop/BeerApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-generated-files.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-own-target-headers.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-all-target-headers.hmap -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-project-headers.hmap -F/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator -I/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/include -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources/i386 -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources -include /var/folders/7o/7oBPsgr5Flm0ASR+clioS++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BeerApp_Prefix-cqfjavikkasnuifgzdshxbgtftls/BeerApp_Prefix.pch --analyze /Users/keithzenoz/Desktop/BeerApp/Reachability.m -o /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/StaticAnalyzer/normal/i386/Reachability.plist0#
+
+CAnalyze /Users/keithzenoz/Desktop/BeerApp/SBJsonBase.m
+s329516666.841919
+e329516666.903332
+r1
+xAnalyze
+x/Users/keithzenoz/Desktop/BeerApp/SBJsonBase.m
+lSLF07#2@54"Analyze /Users/keithzenoz/Desktop/BeerApp/SBJsonBase.m329516666#329516666#0(0"0(0#0#46"/Users/keithzenoz/Desktop/BeerApp/SBJsonBase.m8613674464#1880"    cd /Users/keithzenoz/Desktop/BeerApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-generated-files.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-own-target-headers.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-all-target-headers.hmap -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-project-headers.hmap -F/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator -I/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/include -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources/i386 -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources -include /var/folders/7o/7oBPsgr5Flm0ASR+clioS++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BeerApp_Prefix-cqfjavikkasnuifgzdshxbgtftls/BeerApp_Prefix.pch --analyze /Users/keithzenoz/Desktop/BeerApp/SBJsonBase.m -o /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/StaticAnalyzer/normal/i386/SBJsonBase.plist0#
+
+CAnalyze /Users/keithzenoz/Desktop/BeerApp/SBJsonParser.m
+s329516666.903424
+e329516679.179618
+r1
+xAnalyze
+x/Users/keithzenoz/Desktop/BeerApp/SBJsonParser.m
+lSLF07#2@56"Analyze /Users/keithzenoz/Desktop/BeerApp/SBJsonParser.m329516666#329516679#0(0"0(0#0#48"/Users/keithzenoz/Desktop/BeerApp/SBJsonParser.m8613184384#1884"    cd /Users/keithzenoz/Desktop/BeerApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-generated-files.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-own-target-headers.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-all-target-headers.hmap -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-project-headers.hmap -F/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator -I/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/include -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources/i386 -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources -include /var/folders/7o/7oBPsgr5Flm0ASR+clioS++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BeerApp_Prefix-cqfjavikkasnuifgzdshxbgtftls/BeerApp_Prefix.pch --analyze /Users/keithzenoz/Desktop/BeerApp/SBJsonParser.m -o /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/StaticAnalyzer/normal/i386/SBJsonParser.plist0#
+
+CAnalyze /Users/keithzenoz/Desktop/BeerApp/SBJsonWriter.m
+s329516666.961725
+e329516667.080010
+r1
+xAnalyze
+x/Users/keithzenoz/Desktop/BeerApp/SBJsonWriter.m
+lSLF07#2@56"Analyze /Users/keithzenoz/Desktop/BeerApp/SBJsonWriter.m329516666#329516667#0(0"0(0#0#48"/Users/keithzenoz/Desktop/BeerApp/SBJsonWriter.m8612699968#1884"    cd /Users/keithzenoz/Desktop/BeerApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-generated-files.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-own-target-headers.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-all-target-headers.hmap -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-project-headers.hmap -F/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator -I/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/include -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources/i386 -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources -include /var/folders/7o/7oBPsgr5Flm0ASR+clioS++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BeerApp_Prefix-cqfjavikkasnuifgzdshxbgtftls/BeerApp_Prefix.pch --analyze /Users/keithzenoz/Desktop/BeerApp/SBJsonWriter.m -o /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/StaticAnalyzer/normal/i386/SBJsonWriter.plist0#
+
+CAnalyze /Users/keithzenoz/Desktop/BeerApp/main.m
+s329516666.438646
+e329516666.576013
+r1
+xAnalyze
+x/Users/keithzenoz/Desktop/BeerApp/main.m
+lSLF07#2@48"Analyze /Users/keithzenoz/Desktop/BeerApp/main.m329516666#329516666#0(0"0(0#0#40"/Users/keithzenoz/Desktop/BeerApp/main.m8606979392#1868"    cd /Users/keithzenoz/Desktop/BeerApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-generated-files.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-own-target-headers.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-all-target-headers.hmap -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-project-headers.hmap -F/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator -I/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/include -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources/i386 -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources -include /var/folders/7o/7oBPsgr5Flm0ASR+clioS++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BeerApp_Prefix-cqfjavikkasnuifgzdshxbgtftls/BeerApp_Prefix.pch --analyze /Users/keithzenoz/Desktop/BeerApp/main.m -o /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/StaticAnalyzer/normal/i386/main.plist0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies329519605#329519605#0(0"0(0#1#0"8617925920#0"0#
+
+CCompileC build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/ASIAuthenticationDialog.o /Users/keithzenoz/Desktop/BeerApp/ASIAuthenticationDialog.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s329518910.377809
+e329518910.721532
+r1
+xCompileC
+xbuild/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/ASIAuthenticationDialog.o
+x/Users/keithzenoz/Desktop/BeerApp/ASIAuthenticationDialog.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/keithzenoz/Desktop/BeerApp/ASIAuthenticationDialog.m329518910#329518910#0(0"0(0#0#59"/Users/keithzenoz/Desktop/BeerApp/ASIAuthenticationDialog.m8613148288#1950"    cd /Users/keithzenoz/Desktop/BeerApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-generated-files.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-own-target-headers.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-all-target-headers.hmap -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-project-headers.hmap -F/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator -I/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources/i386 -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources -include /var/folders/7o/7oBPsgr5Flm0ASR+clioS++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BeerApp_Prefix-eljencxzxeukouceokjobipxusza/BeerApp_Prefix.pch -c /Users/keithzenoz/Desktop/BeerApp/ASIAuthenticationDialog.m -o /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/ASIAuthenticationDialog.o0#
+
+CCompileC build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/ASIDataCompressor.o /Users/keithzenoz/Desktop/BeerApp/ASIDataCompressor.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s329518910.404387
+e329518910.518126
+r1
+xCompileC
+xbuild/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/ASIDataCompressor.o
+x/Users/keithzenoz/Desktop/BeerApp/ASIDataCompressor.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/keithzenoz/Desktop/BeerApp/ASIDataCompressor.m329518910#329518910#0(0"0(0#0#53"/Users/keithzenoz/Desktop/BeerApp/ASIDataCompressor.m8621280640#1938"    cd /Users/keithzenoz/Desktop/BeerApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-generated-files.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-own-target-headers.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-all-target-headers.hmap -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-project-headers.hmap -F/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator -I/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources/i386 -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources -include /var/folders/7o/7oBPsgr5Flm0ASR+clioS++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BeerApp_Prefix-eljencxzxeukouceokjobipxusza/BeerApp_Prefix.pch -c /Users/keithzenoz/Desktop/BeerApp/ASIDataCompressor.m -o /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/ASIDataCompressor.o0#
+
+CCompileC build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/ASIDataDecompressor.o /Users/keithzenoz/Desktop/BeerApp/ASIDataDecompressor.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s329518910.518240
+e329518910.633978
+r1
+xCompileC
+xbuild/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/ASIDataDecompressor.o
+x/Users/keithzenoz/Desktop/BeerApp/ASIDataDecompressor.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/keithzenoz/Desktop/BeerApp/ASIDataDecompressor.m329518910#329518910#0(0"0(0#0#55"/Users/keithzenoz/Desktop/BeerApp/ASIDataDecompressor.m8619429312#1942"    cd /Users/keithzenoz/Desktop/BeerApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-generated-files.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-own-target-headers.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-all-target-headers.hmap -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-project-headers.hmap -F/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator -I/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources/i386 -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources -include /var/folders/7o/7oBPsgr5Flm0ASR+clioS++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BeerApp_Prefix-eljencxzxeukouceokjobipxusza/BeerApp_Prefix.pch -c /Users/keithzenoz/Desktop/BeerApp/ASIDataDecompressor.m -o /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/ASIDataDecompressor.o0#
+
+CCompileC build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/ASIDownloadCache.o /Users/keithzenoz/Desktop/BeerApp/ASIDownloadCache.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s329518910.634090
+e329518910.849725
+r1
+xCompileC
+xbuild/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/ASIDownloadCache.o
+x/Users/keithzenoz/Desktop/BeerApp/ASIDownloadCache.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/keithzenoz/Desktop/BeerApp/ASIDownloadCache.m329518910#329518910#0(0"0(0#0#52"/Users/keithzenoz/Desktop/BeerApp/ASIDownloadCache.m8617691040#1936"    cd /Users/keithzenoz/Desktop/BeerApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-generated-files.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-own-target-headers.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-all-target-headers.hmap -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-project-headers.hmap -F/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator -I/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources/i386 -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources -include /var/folders/7o/7oBPsgr5Flm0ASR+clioS++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BeerApp_Prefix-eljencxzxeukouceokjobipxusza/BeerApp_Prefix.pch -c /Users/keithzenoz/Desktop/BeerApp/ASIDownloadCache.m -o /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/ASIDownloadCache.o0#
+
+CCompileC build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/ASIFormDataRequest.o /Users/keithzenoz/Desktop/BeerApp/ASIFormDataRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s329518910.721663
+e329518910.893459
+r1
+xCompileC
+xbuild/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/ASIFormDataRequest.o
+x/Users/keithzenoz/Desktop/BeerApp/ASIFormDataRequest.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/keithzenoz/Desktop/BeerApp/ASIFormDataRequest.m329518910#329518910#0(0"0(0#0#54"/Users/keithzenoz/Desktop/BeerApp/ASIFormDataRequest.m8613604160#1940"    cd /Users/keithzenoz/Desktop/BeerApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-generated-files.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-own-target-headers.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-all-target-headers.hmap -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-project-headers.hmap -F/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator -I/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources/i386 -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources -include /var/folders/7o/7oBPsgr5Flm0ASR+clioS++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BeerApp_Prefix-eljencxzxeukouceokjobipxusza/BeerApp_Prefix.pch -c /Users/keithzenoz/Desktop/BeerApp/ASIFormDataRequest.m -o /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/ASIFormDataRequest.o0#
+
+CCompileC build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/ASIHTTPRequest.o /Users/keithzenoz/Desktop/BeerApp/ASIHTTPRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s329518910.849837
+e329518912.163560
+r1
+xCompileC
+xbuild/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/ASIHTTPRequest.o
+x/Users/keithzenoz/Desktop/BeerApp/ASIHTTPRequest.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/keithzenoz/Desktop/BeerApp/ASIHTTPRequest.m329518910#329518912#0(0"0(0#0#50"/Users/keithzenoz/Desktop/BeerApp/ASIHTTPRequest.m8608144704#1932"    cd /Users/keithzenoz/Desktop/BeerApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-generated-files.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-own-target-headers.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-all-target-headers.hmap -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-project-headers.hmap -F/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator -I/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources/i386 -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources -include /var/folders/7o/7oBPsgr5Flm0ASR+clioS++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BeerApp_Prefix-eljencxzxeukouceokjobipxusza/BeerApp_Prefix.pch -c /Users/keithzenoz/Desktop/BeerApp/ASIHTTPRequest.m -o /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/ASIHTTPRequest.o0#
+
+CCompileC build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/ASIInputStream.o /Users/keithzenoz/Desktop/BeerApp/ASIInputStream.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s329518910.893576
+e329518910.993247
+r1
+xCompileC
+xbuild/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/ASIInputStream.o
+x/Users/keithzenoz/Desktop/BeerApp/ASIInputStream.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/keithzenoz/Desktop/BeerApp/ASIInputStream.m329518910#329518910#0(0"0(0#0#50"/Users/keithzenoz/Desktop/BeerApp/ASIInputStream.m8619036000#1932"    cd /Users/keithzenoz/Desktop/BeerApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-generated-files.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-own-target-headers.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-all-target-headers.hmap -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-project-headers.hmap -F/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator -I/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources/i386 -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources -include /var/folders/7o/7oBPsgr5Flm0ASR+clioS++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BeerApp_Prefix-eljencxzxeukouceokjobipxusza/BeerApp_Prefix.pch -c /Users/keithzenoz/Desktop/BeerApp/ASIInputStream.m -o /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/ASIInputStream.o0#
+
+CCompileC build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/ASINetworkQueue.o /Users/keithzenoz/Desktop/BeerApp/ASINetworkQueue.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s329518910.993356
+e329518911.163507
+r1
+xCompileC
+xbuild/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/ASINetworkQueue.o
+x/Users/keithzenoz/Desktop/BeerApp/ASINetworkQueue.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/keithzenoz/Desktop/BeerApp/ASINetworkQueue.m329518910#329518911#0(0"0(0#0#51"/Users/keithzenoz/Desktop/BeerApp/ASINetworkQueue.m8618412544#1934"    cd /Users/keithzenoz/Desktop/BeerApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-generated-files.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-own-target-headers.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-all-target-headers.hmap -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-project-headers.hmap -F/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator -I/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources/i386 -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources -include /var/folders/7o/7oBPsgr5Flm0ASR+clioS++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BeerApp_Prefix-eljencxzxeukouceokjobipxusza/BeerApp_Prefix.pch -c /Users/keithzenoz/Desktop/BeerApp/ASINetworkQueue.m -o /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/ASINetworkQueue.o0#
+
+CCompileC build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/ASIWebPageRequest.o /Users/keithzenoz/Desktop/BeerApp/ASIWebPageRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s329518911.163612
+e329518911.521553
+r1
+xCompileC
+xbuild/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/ASIWebPageRequest.o
+x/Users/keithzenoz/Desktop/BeerApp/ASIWebPageRequest.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/keithzenoz/Desktop/BeerApp/ASIWebPageRequest.m329518911#329518911#0(0"0(0#0#53"/Users/keithzenoz/Desktop/BeerApp/ASIWebPageRequest.m8613158848#1938"    cd /Users/keithzenoz/Desktop/BeerApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-generated-files.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-own-target-headers.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-all-target-headers.hmap -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-project-headers.hmap -F/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator -I/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources/i386 -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources -include /var/folders/7o/7oBPsgr5Flm0ASR+clioS++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BeerApp_Prefix-eljencxzxeukouceokjobipxusza/BeerApp_Prefix.pch -c /Users/keithzenoz/Desktop/BeerApp/ASIWebPageRequest.m -o /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/ASIWebPageRequest.o0#
+
+CCompileC build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/BeerAppAppDelegate.o /Users/keithzenoz/Desktop/BeerApp/Classes/BeerAppAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s329518909.895769
+e329518910.075619
+r1
+xCompileC
+xbuild/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/BeerAppAppDelegate.o
+x/Users/keithzenoz/Desktop/BeerApp/Classes/BeerAppAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/keithzenoz/Desktop/BeerApp/Classes/BeerAppAppDelegate.m329518909#329518910#0(0"0(0#0#62"/Users/keithzenoz/Desktop/BeerApp/Classes/BeerAppAppDelegate.m8610949792#1948"    cd /Users/keithzenoz/Desktop/BeerApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-generated-files.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-own-target-headers.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-all-target-headers.hmap -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-project-headers.hmap -F/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator -I/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources/i386 -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources -include /var/folders/7o/7oBPsgr5Flm0ASR+clioS++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BeerApp_Prefix-eljencxzxeukouceokjobipxusza/BeerApp_Prefix.pch -c /Users/keithzenoz/Desktop/BeerApp/Classes/BeerAppAppDelegate.m -o /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/BeerAppAppDelegate.o0#
+
+CCompileC build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/BeerAppViewController.o /Users/keithzenoz/Desktop/BeerApp/Classes/BeerAppViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s329518910.046009
+e329518910.133278
+r1
+xCompileC
+xbuild/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/BeerAppViewController.o
+x/Users/keithzenoz/Desktop/BeerApp/Classes/BeerAppViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/keithzenoz/Desktop/BeerApp/Classes/BeerAppViewController.m329518910#329518910#0(0"0(0#0#65"/Users/keithzenoz/Desktop/BeerApp/Classes/BeerAppViewController.m8620022752#1954"    cd /Users/keithzenoz/Desktop/BeerApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-generated-files.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-own-target-headers.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-all-target-headers.hmap -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-project-headers.hmap -F/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator -I/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources/i386 -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources -include /var/folders/7o/7oBPsgr5Flm0ASR+clioS++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BeerApp_Prefix-eljencxzxeukouceokjobipxusza/BeerApp_Prefix.pch -c /Users/keithzenoz/Desktop/BeerApp/Classes/BeerAppViewController.m -o /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/BeerAppViewController.o0#
+
+CCompileC build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/MBProgressHUD.o /Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s329519605.993873
+e329519606.218952
+r1
+xCompileC
+xbuild/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/MBProgressHUD.o
+x/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m329519605#329519606#0(0"0(0#0#49"/Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m8612624032#1930"    cd /Users/keithzenoz/Desktop/BeerApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-generated-files.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-own-target-headers.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-all-target-headers.hmap -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-project-headers.hmap -F/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator -I/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources/i386 -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources -include /var/folders/7o/7oBPsgr5Flm0ASR+clioS++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BeerApp_Prefix-eljencxzxeukouceokjobipxusza/BeerApp_Prefix.pch -c /Users/keithzenoz/Desktop/BeerApp/MBProgressHUD.m -o /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/MBProgressHUD.o0#
+
+CCompileC build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/NSObject+SBJSON.o /Users/keithzenoz/Desktop/BeerApp/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s329518910.075736
+e329518910.162263
+r1
+xCompileC
+xbuild/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/NSObject+SBJSON.o
+x/Users/keithzenoz/Desktop/BeerApp/NSObject+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/keithzenoz/Desktop/BeerApp/NSObject+SBJSON.m329518910#329518910#0(0"0(0#0#51"/Users/keithzenoz/Desktop/BeerApp/NSObject+SBJSON.m8619366432#1934"    cd /Users/keithzenoz/Desktop/BeerApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-generated-files.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-own-target-headers.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-all-target-headers.hmap -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-project-headers.hmap -F/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator -I/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources/i386 -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources -include /var/folders/7o/7oBPsgr5Flm0ASR+clioS++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BeerApp_Prefix-eljencxzxeukouceokjobipxusza/BeerApp_Prefix.pch -c /Users/keithzenoz/Desktop/BeerApp/NSObject+SBJSON.m -o /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/NSObject+SBJSON.o0#
+
+CCompileC build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/NSString+SBJSON.o /Users/keithzenoz/Desktop/BeerApp/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s329518910.133404
+e329518910.224721
+r1
+xCompileC
+xbuild/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/NSString+SBJSON.o
+x/Users/keithzenoz/Desktop/BeerApp/NSString+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/keithzenoz/Desktop/BeerApp/NSString+SBJSON.m329518910#329518910#0(0"0(0#0#51"/Users/keithzenoz/Desktop/BeerApp/NSString+SBJSON.m8619016288#1934"    cd /Users/keithzenoz/Desktop/BeerApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-generated-files.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-own-target-headers.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-all-target-headers.hmap -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-project-headers.hmap -F/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator -I/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources/i386 -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources -include /var/folders/7o/7oBPsgr5Flm0ASR+clioS++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BeerApp_Prefix-eljencxzxeukouceokjobipxusza/BeerApp_Prefix.pch -c /Users/keithzenoz/Desktop/BeerApp/NSString+SBJSON.m -o /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/NSString+SBJSON.o0#
+
+CCompileC build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/Reachability.o /Users/keithzenoz/Desktop/BeerApp/Reachability.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s329518911.521784
+e329518911.663005
+r1
+xCompileC
+xbuild/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/Reachability.o
+x/Users/keithzenoz/Desktop/BeerApp/Reachability.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/keithzenoz/Desktop/BeerApp/Reachability.m329518911#329518911#0(0"0(0#0#48"/Users/keithzenoz/Desktop/BeerApp/Reachability.m8619789056#1928"    cd /Users/keithzenoz/Desktop/BeerApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-generated-files.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-own-target-headers.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-all-target-headers.hmap -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-project-headers.hmap -F/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator -I/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources/i386 -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources -include /var/folders/7o/7oBPsgr5Flm0ASR+clioS++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BeerApp_Prefix-eljencxzxeukouceokjobipxusza/BeerApp_Prefix.pch -c /Users/keithzenoz/Desktop/BeerApp/Reachability.m -o /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/Reachability.o0#
+
+CCompileC build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/SBJsonBase.o /Users/keithzenoz/Desktop/BeerApp/SBJsonBase.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s329518910.162382
+e329518910.263155
+r1
+xCompileC
+xbuild/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/SBJsonBase.o
+x/Users/keithzenoz/Desktop/BeerApp/SBJsonBase.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/keithzenoz/Desktop/BeerApp/SBJsonBase.m329518910#329518910#0(0"0(0#0#46"/Users/keithzenoz/Desktop/BeerApp/SBJsonBase.m8618585024#1924"    cd /Users/keithzenoz/Desktop/BeerApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-generated-files.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-own-target-headers.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-all-target-headers.hmap -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-project-headers.hmap -F/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator -I/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources/i386 -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources -include /var/folders/7o/7oBPsgr5Flm0ASR+clioS++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BeerApp_Prefix-eljencxzxeukouceokjobipxusza/BeerApp_Prefix.pch -c /Users/keithzenoz/Desktop/BeerApp/SBJsonBase.m -o /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/SBJsonBase.o0#
+
+CCompileC build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/SBJsonParser.o /Users/keithzenoz/Desktop/BeerApp/SBJsonParser.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s329518910.224854
+e329518910.404271
+r1
+xCompileC
+xbuild/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/SBJsonParser.o
+x/Users/keithzenoz/Desktop/BeerApp/SBJsonParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/keithzenoz/Desktop/BeerApp/SBJsonParser.m329518910#329518910#0(0"0(0#0#48"/Users/keithzenoz/Desktop/BeerApp/SBJsonParser.m8614704384#1928"    cd /Users/keithzenoz/Desktop/BeerApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-generated-files.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-own-target-headers.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-all-target-headers.hmap -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-project-headers.hmap -F/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator -I/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources/i386 -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources -include /var/folders/7o/7oBPsgr5Flm0ASR+clioS++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BeerApp_Prefix-eljencxzxeukouceokjobipxusza/BeerApp_Prefix.pch -c /Users/keithzenoz/Desktop/BeerApp/SBJsonParser.m -o /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/SBJsonParser.o0#
+
+CCompileC build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/SBJsonWriter.o /Users/keithzenoz/Desktop/BeerApp/SBJsonWriter.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s329518910.263264
+e329518910.377685
+r1
+xCompileC
+xbuild/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/SBJsonWriter.o
+x/Users/keithzenoz/Desktop/BeerApp/SBJsonWriter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/keithzenoz/Desktop/BeerApp/SBJsonWriter.m329518910#329518910#0(0"0(0#0#48"/Users/keithzenoz/Desktop/BeerApp/SBJsonWriter.m8614038688#1928"    cd /Users/keithzenoz/Desktop/BeerApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-generated-files.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-own-target-headers.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-all-target-headers.hmap -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-project-headers.hmap -F/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator -I/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources/i386 -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources -include /var/folders/7o/7oBPsgr5Flm0ASR+clioS++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BeerApp_Prefix-eljencxzxeukouceokjobipxusza/BeerApp_Prefix.pch -c /Users/keithzenoz/Desktop/BeerApp/SBJsonWriter.m -o /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/SBJsonWriter.o0#
+
+CCompileC build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/main.o /Users/keithzenoz/Desktop/BeerApp/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s329518909.894263
+e329518910.045888
+r1
+xCompileC
+xbuild/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/main.o
+x/Users/keithzenoz/Desktop/BeerApp/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/keithzenoz/Desktop/BeerApp/main.m329518909#329518910#0(0"0(0#0#40"/Users/keithzenoz/Desktop/BeerApp/main.m8603437920#1912"    cd /Users/keithzenoz/Desktop/BeerApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-generated-files.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-own-target-headers.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-all-target-headers.hmap -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-project-headers.hmap -F/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator -I/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources/i386 -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources -include /var/folders/7o/7oBPsgr5Flm0ASR+clioS++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BeerApp_Prefix-eljencxzxeukouceokjobipxusza/BeerApp_Prefix.pch -c /Users/keithzenoz/Desktop/BeerApp/main.m -o /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/keithzenoz/Desktop/BeerApp/BeerAppViewController.xib
+s329516653.682814
+e329516658.760510
+r1
+xCompileXIB
+x/Users/keithzenoz/Desktop/BeerApp/BeerAppViewController.xib
+lSLF07#2@36"CompileXIB BeerAppViewController.xib329516653#329516658#0(0"0(0#0#59"/Users/keithzenoz/Desktop/BeerApp/BeerAppViewController.xib8613626240#577"    cd /Users/keithzenoz/Desktop/BeerApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/BeerApp.app/BeerAppViewController.nib /Users/keithzenoz/Desktop/BeerApp/BeerAppViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/keithzenoz/Desktop/BeerApp/MainWindow.xib
+s329516653.680544
+e329516659.512239
+r1
+xCompileXIB
+x/Users/keithzenoz/Desktop/BeerApp/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib329516653#329516659#0(0"0(0#0#48"/Users/keithzenoz/Desktop/BeerApp/MainWindow.xib8613789472#555"    cd /Users/keithzenoz/Desktop/BeerApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/BeerApp.app/MainWindow.nib /Users/keithzenoz/Desktop/BeerApp/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CGenerateDSYMFile /Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/BeerApp.app.dSYM /Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/BeerApp.app/BeerApp
+s329519606.989806
+e329519607.131420
+r1
+xGenerateDSYMFile
+x/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/BeerApp.app.dSYM
+x/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/BeerApp.app/BeerApp
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/BeerApp.app.dSYM build/Debug-iphonesimulator/BeerApp.app/BeerApp329519606#329519607#0(0"0(0#0#81"/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/BeerApp.app/BeerApp8617623872#368"    cd /Users/keithzenoz/Desktop/BeerApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/BeerApp.app/BeerApp -o /Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/BeerApp.app.dSYM0#
+
+CLd /Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/BeerApp.app/BeerApp normal i386
+s329519606.219064
+e329519606.989662
+r1
+xLd
+x/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/BeerApp.app/BeerApp
+xnormal
+xi386
+lSLF07#2@86"Link /Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/BeerApp.app/BeerApp329519606#329519606#0(0"0(0#0#0"8618221152#980"    cd /Users/keithzenoz/Desktop/BeerApp    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator -F/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator -filelist /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/Objects-normal/i386/BeerApp.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CFNetwork -framework SystemConfiguration -framework MobileCoreServices -lz.1.2.3 -lxml2.2.7.3 -o /Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/BeerApp.app/BeerApp0#
+
+CProcessInfoPlistFile /Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/BeerApp.app/Info.plist BeerApp-Info.plist
+s329516653.572349
+e329516653.680420
+r1
+xProcessInfoPlistFile
+x/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/BeerApp.app/Info.plist
+xBeerApp-Info.plist
+lSLF07#2@26"Process BeerApp-Info.plist329516653#329516653#0(0"0(0#0#52"/Users/keithzenoz/Desktop/BeerApp/BeerApp-Info.plist30681223440564324#464"    cd /Users/keithzenoz/Desktop/BeerApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility BeerApp-Info.plist -genpkginfo /Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/BeerApp.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/BeerApp.app/Info.plist0#
+
+CProcessPCH /var/folders/7o/7oBPsgr5Flm0ASR+clioS++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BeerApp_Prefix-cqfjavikkasnuifgzdshxbgtftls/BeerApp_Prefix.pch.pth BeerApp_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
+s329516659.514309
+e329516662.722899
+r1
+xProcessPCH
+x/var/folders/7o/7oBPsgr5Flm0ASR+clioS++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BeerApp_Prefix-cqfjavikkasnuifgzdshxbgtftls/BeerApp_Prefix.pch.pth
+xBeerApp_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.analyzer
+lSLF07#2@29"Precompile BeerApp_Prefix.pch329516659#329516662#0(0"0(0#0#52"/Users/keithzenoz/Desktop/BeerApp/BeerApp_Prefix.pch8613848832#1747"    cd /Users/keithzenoz/Desktop/BeerApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fasm-blocks -mmacosx-version-min=10.6 -gdwarf-2 -fvisibility=hidden -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-generated-files.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-own-target-headers.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-all-target-headers.hmap -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-project-headers.hmap -F/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator -I/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/include -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources/i386 -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources -c /Users/keithzenoz/Desktop/BeerApp/BeerApp_Prefix.pch -o /var/folders/7o/7oBPsgr5Flm0ASR+clioS++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BeerApp_Prefix-cqfjavikkasnuifgzdshxbgtftls/BeerApp_Prefix.pch.pth0#
+
+CProcessPCH /var/folders/7o/7oBPsgr5Flm0ASR+clioS++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BeerApp_Prefix-eljencxzxeukouceokjobipxusza/BeerApp_Prefix.pch.gch BeerApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s329518908.174413
+e329518909.893984
+r1
+xProcessPCH
+x/var/folders/7o/7oBPsgr5Flm0ASR+clioS++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BeerApp_Prefix-eljencxzxeukouceokjobipxusza/BeerApp_Prefix.pch.gch
+xBeerApp_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile BeerApp_Prefix.pch329518908#329518909#0(0"0(0#0#52"/Users/keithzenoz/Desktop/BeerApp/BeerApp_Prefix.pch8607744224#1809"    cd /Users/keithzenoz/Desktop/BeerApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-generated-files.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-own-target-headers.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-all-target-headers.hmap -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-project-headers.hmap -F/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator -I/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/include -I/usr/include/libxml2 -I/usr/include/libxml2/libxml -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources/i386 -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources -c /Users/keithzenoz/Desktop/BeerApp/BeerApp_Prefix.pch -o /var/folders/7o/7oBPsgr5Flm0ASR+clioS++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BeerApp_Prefix-eljencxzxeukouceokjobipxusza/BeerApp_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/7o/7oBPsgr5Flm0ASR+clioS++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BeerApp_Prefix-gfxlvuvbkeymcdgbhxjaqhfddngp/BeerApp_Prefix.pch.gch BeerApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s329516659.512526
+e329516664.531533
+r1
+xProcessPCH
+x/var/folders/7o/7oBPsgr5Flm0ASR+clioS++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BeerApp_Prefix-gfxlvuvbkeymcdgbhxjaqhfddngp/BeerApp_Prefix.pch.gch
+xBeerApp_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile BeerApp_Prefix.pch329516659#329516664#0(0"0(0#0#52"/Users/keithzenoz/Desktop/BeerApp/BeerApp_Prefix.pch8614380192#1756"    cd /Users/keithzenoz/Desktop/BeerApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-generated-files.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-own-target-headers.hmap -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-all-target-headers.hmap -iquote /Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/BeerApp-project-headers.hmap -F/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator -I/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/include -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources/i386 -I/Users/keithzenoz/Desktop/BeerApp/build/BeerApp.build/Debug-iphonesimulator/BeerApp.build/DerivedSources -c /Users/keithzenoz/Desktop/BeerApp/BeerApp_Prefix.pch -o /var/folders/7o/7oBPsgr5Flm0ASR+clioS++++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/BeerApp_Prefix-gfxlvuvbkeymcdgbhxjaqhfddngp/BeerApp_Prefix.pch.gch0#
+
+CTouch /Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/BeerApp.app
+s329519607.131558
+e329519607.202265
+r1
+xTouch
+x/Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/BeerApp.app
+lSLF07#2@79"Touch /Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/BeerApp.app329519607#329519607#0(0"0(0#0#0"8607723072#268"    cd /Users/keithzenoz/Desktop/BeerApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/keithzenoz/Desktop/BeerApp/build/Debug-iphonesimulator/BeerApp.app0#
+
